@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mailcow is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mailcow.email/
+Mailcow provides a dockerized mail server suite, offering a full-featured, self‑hosted email solution with webmail, spam filtering, antivirus, and advanced management tools. It is maintained by The Infrastructure Company GmbH and supports modern protocols, multiple domains, and extensive configuration options, targeting both small businesses and larger enterprises seeking control over their email infrastructure.
+
+**Areas:** Company · Email · Docker · OpenSource · SelfHosted
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mailcow.email/)
+- [Documentation](https://mailcow.github.io/mailcow-dockerized-docs/)
+- [Getting started](https://docs.mailcow.email/post_installation/setup-mta-sts/)
+- [Support](https://www.servercow.de/mailcow?lang=en#support)
+- [Security](https://mailcow.email/tags/security/)
+- [GitHub](https://github.com/mailcow)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mailcow/](https://apis.io/providers/mailcow/).
